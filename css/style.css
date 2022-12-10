@@ -835,6 +835,7 @@ h3.my-profession {
         display: block;
         margin-left: 0;
     }
+   
 }
 @media (max-width: 991px)
 {
@@ -855,6 +856,8 @@ h3.my-profession {
     {
         display: none;
     }
+   
+  
 }
 @media (max-width: 767px)
 {
@@ -870,5 +873,7 @@ h3.my-profession {
         flex: 0 0 100%;
         max-width: 100%;
     }
+   
+    
 }
 
