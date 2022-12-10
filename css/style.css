@@ -395,6 +395,13 @@ h3.my-profession {
     height: 400px;
 
 }
+/* resume */
+.resume
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 /* about */
 .about .about-content {
@@ -691,6 +698,10 @@ h3.my-profession {
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
+}
+.portfolio-item-inner 
+{
+    margin-top: 40px;
 }
 .portfolio .portfolio-item-inner .portfolio-img img
 {
